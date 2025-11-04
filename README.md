@@ -27,15 +27,6 @@ moderna.
 - **🚀 Performance Otimizada** - FutureBuilder e carregamento assíncrono
 - **🛡️ Tratamento de Erros** - Lida com requisições 404 e falhas de rede
 
-## 🎥 Demonstração
-
-<div align="center">
-
-| Tela Principal                                                                            | Carregamento                                                                              | Cache Offline                                                                               |
-|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
-| <img src="https://via.placeholder.com/300x600/171F25/C3FF68?text=Pokedex+UI" width="200"> | <img src="https://via.placeholder.com/300x600/171F25/FFFFFF?text=Loading..." width="200"> | <img src="https://via.placeholder.com/300x600/171F25/4ECDC4?text=Offline+Mode" width="200"> |
-
-</div>
 
 ## 🛠️ Tecnologias
 
